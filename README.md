@@ -1,0 +1,8 @@
+- 👋 Hi, I’m Chase Pope, my github username is @chasepope47.
+- 👀 I’m interested in being outdoors for camping and hiking. I love playing video games and making new things with my 3D printer. 
+- 🌱 I’m currently learning cyber security and I am working towards my bachelors. 
+- 💞️ I’m looking to collaborate on any new projects mainly in python as that is my strongest language right now.
+- 📫 How to reach me,
+- email: chasepope47@gmail.com
+- LinkedIn: https://www.linkedin.com/in/chase-pope-a89530256/
+- ⚡ Fun fact: I love droning and want to get into FPV droning by making and programming my own FPV drone. 
