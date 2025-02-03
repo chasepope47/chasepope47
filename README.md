@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chase! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/chase-pope-a89530256/">Cybersecurity Professional</a>
+<h1>Hi, I'm Chase! <br/><a href="https://github.com/chasepope47">Programmer</a>, <a href="https://www.linkedin.com/in/chase-pope-a89530256/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 IT Development Projects:</h2>
 
